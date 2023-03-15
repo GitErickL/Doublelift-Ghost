@@ -10,6 +10,7 @@ In this notebook we use player data from Riot's API to explore the **influence o
 
 The main plot is shown below and indicates that: 
 **Yes, Doublelift's video influenced North American bot players to take ghost from about 1-2% of the time to 4-10% of the time in ranked games.**
-
+<br>
+<br>
 
 ![](Doublelift_Influence.png)
